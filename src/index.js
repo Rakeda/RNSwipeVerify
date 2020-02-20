@@ -146,7 +146,7 @@ export default class RNSwipeVerify extends Component {
           borderRadius: borderRadius + 4,
           padding: 2,
           flex: 1,
-          height: buttonSize+4
+          height: buttonSize+8
         }}
       >
         <View
